@@ -125,4 +125,9 @@ Here’s a revised, more conversational version that sounds natural and human:
 
 	•	Select Teams and Email for quick and reliable communication.
 
-This version is straightforward, genuine, and reflects enthusiasm without sounding overly formal or automated. Let me know if you’d like more adjustments!
+This version is straightforward, genuine, and reflects
+ enthusiasm without sounding overly formal or automated. Let me know if you’d like more adjustments!
+Here’s how you could craft a concise and professional referral message:
+
+“I would like to refer Veroline Malongfor for a position at our company. She is a highly experienced DevOps Engineer with over 7 years of expertise in AWS, Kubernetes, Terraform, and CI/CD pipelines. Her proven ability to optimize cloud infrastructure and streamline operations would make her a valuable addition to our team. Please let me know the next steps for processing this referral.”
+

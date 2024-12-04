@@ -108,3 +108,21 @@ Additional Notes:
 	•	If you’d like, I can help draft a follow-up message for Travis Ferguson.
 
 Let me know how else I can support you in this process!
+
+
+
+Here’s a revised, more conversational version that sounds natural and human:
+
+1. How does your experience and aspirations make you fit for this role?
+
+“I’ve worked on DevOps tasks like automating deployments, managing CI/CD pipelines, and troubleshooting issues in development environments. I also have experience with containerization tools like Docker and Kubernetes. This role is a great fit for me because I’m looking to build on my current skills while contributing to a project that emphasizes automation, scalability, and multi-cloud platforms. I’m confident that my hands-on experience and eagerness to grow make me a strong candidate for this position.”
+
+2. What excites you about this role?
+
+“What excites me most about this role is the chance to work on multi-cloud infrastructure and focus on automation using DevOps tools. I enjoy solving complex problems and improving workflows, so this project aligns perfectly with what I love doing. It’s also a great opportunity to collaborate with a team and contribute to an impactful internal project like AFS Bus Ops.”
+
+3. What is the best way to reach you?
+
+	•	Select Teams and Email for quick and reliable communication.
+
+This version is straightforward, genuine, and reflects enthusiasm without sounding overly formal or automated. Let me know if you’d like more adjustments!

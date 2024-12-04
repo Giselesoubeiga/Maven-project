@@ -1,16 +1,47 @@
-This message is better suited for email because of its length and level of detail. In a Teams message, it’s best to keep it shorter and more conversational, while leaving the door open for a follow-up. Here’s how you can modify it for a Teams message:
+Reaching out to people you don’t know on Teams can feel intimidating, but with a clear and professional approach, it can be highly effective. Here’s how to do it:
 
-Teams Message:
+1. Find the Right People to Contact
 
-Hi Laura,
+	•	Use Teams Search to find people working in your area of interest or job family.
+	•	Look for hiring managers, team leads, or recruiters.
+	•	Use internal tools like MyScheduling or Workday to identify people tied to open roles or departments you’re interested in.
 
-I hope you’re doing well. I recently came across the SCON_Security Engineer Jr/Mid role for the FAR:Pompano project and wanted to express my interest. My experience managing and troubleshooting Linux servers (CentOS/RHEL), working with AWS environments, and automating enterprise infrastructure aligns closely with the needs of this position.
+2. Draft a Short, Professional Message
 
-While I don’t have direct cybersecurity experience, I’m eager to grow in this area and contribute my skills in infrastructure management and problem-solving to the team. I’d love the chance to discuss how I could support the goals of this project. Please let me know if you’re available for a quick chat or if there’s someone else I should connect with.
+Keep it concise and respectful. Your goal is to introduce yourself, express interest, and attach your one-pager resume.
 
-Looking forward to hearing from you!
+Message Example:
+
+Hi [Name],
+
+I hope you’re doing well. My name is [Your Name], and I’m currently transitioning off my project within Accenture Federal Services. I wanted to reach out because I’m actively looking for new opportunities in [specific area, e.g., DevOps, Cloud Engineering, CI/CD Pipelines, etc.].
+
+I’ve attached my one-pager resume for your reference. If you know of any roles available on your team or elsewhere within AFS that match my skills, I’d greatly appreciate it if you could let me know—or connect me with someone who might be hiring.
+
+Thank you for your time, and I’d be happy to discuss my background further if needed. Looking forward to hearing from you!
 
 Best regards,
-Gisele
+[Your Name]
+[Your Current Role/Team]
 
-This version keeps it professional but concise for Teams. If the person shows interest, you can follow up with more details via email or during a conversation. Let me know if this works!
+3. Attach Your One-Pager Resume
+
+	•	Save your one-pager as a PDF with a clear file name (e.g., Gisele_Soubiega_Resume.pdf) to make it look polished.
+	•	Attach it to your Teams message before sending.
+
+4. Follow Up (If Necessary)
+
+If you don’t hear back within 5-7 days:
+	•	Send a polite follow-up message.
+
+Follow-Up Example:
+
+Hi [Name], I just wanted to follow up on my previous message. I understand you’re busy, but I’d greatly appreciate any guidance or connections regarding roles within AFS that align with my skills. Thank you again for your time!
+
+5. General Tips
+
+	•	Personalize Each Message: Avoid sounding like you’re sending a mass message. Mention something relevant about their role or team if possible.
+	•	Be Polite and Respectful: Remember, you’re asking for their help.
+	•	Cast a Wide Net: Reach out to multiple people across different teams or departments.
+
+Would you like me to tailor the message further based on your specific roles or skills? Let me know!

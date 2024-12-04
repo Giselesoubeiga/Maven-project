@@ -54,3 +54,34 @@ Would you like me to tailor the message further based on your specific roles or 
 •	Managed users, groups and assigning file access privileges using Access Control List (ACL).
 •	Troubleshot and resolved complex application stack and infrastructure issues, enhancing performance and reliability for Java-based enterprise applications.
 
+
+
+
+To reach out to the primary contact listed (Michael Macom) for the Rural Route Cloud Platform Engineer role, you can send a professional email or a Teams message (if they are within your organization’s network). Here’s how you can approach it:
+
+Subject Line for an Email or Teams Message
+
+Inquiry About Rural Route Cloud Platform Engineer Role
+
+Message Body
+
+Hi Michael,
+
+I hope this message finds you well. My name is Gisele, and I’m currently with AFS. I came across the Rural Route Cloud Platform Engineer role (Role ID: 5571152) and found it aligns well with my experience and skill set, particularly in [highlight a relevant skill, e.g., DevOps, AWS, CI/CD processes].
+
+I am very interested in this position and would love to discuss how my background could contribute to the success of this project. Could we schedule a quick call or connect over email to discuss this opportunity further?
+
+Thank you for your time, and I look forward to hearing from you.
+
+Best regards,
+Gisele
+
+[Your Contact Information, if emailing]
+
+Tips:
+
+	1.	Be Concise: Keep the message short and to the point while highlighting your enthusiasm and relevant skills.
+	2.	Show Interest in the Project: Reference specifics about the role (e.g., AWS cloud environment, DevOps tasks) to demonstrate genuine interest.
+	3.	Follow Up: If you don’t hear back within a few days, send a polite follow-up message.
+
+Let me know if you’d like further assistance refining this message!

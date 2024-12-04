@@ -45,3 +45,12 @@ Hi [Name], I just wanted to follow up on my previous message. I understand you�
 	•	Cast a Wide Net: Reach out to multiple people across different teams or departments.
 
 Would you like me to tailor the message further based on your specific roles or skills? Let me know!
+
+
+
+•	Configured and maintained Linux distributions, including Ubuntu, CentOS, and Red Hat, ensuring optimal performance, system stability, and security across a multi-distro environment.
+•	Installed, updated, and maintained software applications and packages using YUM and RPM package managers, ensuring that they are up to date and secure.
+•	Automated routine administrative tasks and system configurations using Bash and Python scripts, significantly reducing manual workload and operational errors.
+•	Managed users, groups and assigning file access privileges using Access Control List (ACL).
+•	Troubleshot and resolved complex application stack and infrastructure issues, enhancing performance and reliability for Java-based enterprise applications.
+

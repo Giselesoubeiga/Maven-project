@@ -85,3 +85,26 @@ Tips:
 	3.	Follow Up: If you don’t hear back within a few days, send a polite follow-up message.
 
 Let me know if you’d like further assistance refining this message!
+
+
+
+For the Cloud & DevOps Engineer role, you’ll want to craft responses for the provided questions that highlight your qualifications, enthusiasm, and alignment with the role. Below are some suggestions to help you fill out the application form:
+
+1. How does your experience and aspirations make you fit for this role?
+
+“I have hands-on experience managing DevOps tasks in development environments, including supporting CI/CD pipelines, automating build and deployment processes, and working with containerization and orchestration tools like Kubernetes and Docker. I have also contributed to enhancing workflows for application services and ensuring scalability across environments. My aspiration to further deepen my expertise in multi-cloud platforms and automation aligns perfectly with the requirements of this role. I am confident that my skills and dedication will enable me to contribute effectively to the success of the project.”
+
+2. What excites you about this role?
+
+“I am particularly excited about the opportunity to design and manage multi-cloud infrastructure while leveraging DevOps tools for automation and scalability. The prospect of working on a highly impactful internal project like AFS Bus Ops is motivating, as it allows me to bring value to the organization while enhancing my skills in cloud environments. Additionally, the chance to collaborate with a team focused on innovation in continuous integration and deployment aligns with my professional goals and passion for technology solutions.”
+
+3. What is the best way to reach you?
+
+	•	Select Teams and Email, as they’re likely the most efficient communication methods within the organization.
+
+Additional Notes:
+
+	•	Once you’ve filled this out, consider following up with the primary contact (Travis Ferguson) to express your interest and confirm they’ve received your application.
+	•	If you’d like, I can help draft a follow-up message for Travis Ferguson.
+
+Let me know how else I can support you in this process!

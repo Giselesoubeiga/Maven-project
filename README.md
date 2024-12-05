@@ -1,24 +1,14 @@
-Understood! Here’s a very human, straightforward, and professional email that reflects your real experience and the fact that you’ve already applied to the role:
+Your message looks great overall. Here’s a slightly refined version to make it even clearer and more polished:
 
-Subject: Follow-Up on Application for Cloud Engineer - T1 Role (Role ID: 5568360)
+Hi Won,
 
-Hi Jonathan,
+I wanted to discuss my schedule for the INT on-call rotation next week. My access to the INT environment had been disabled since May per Andrew’s instructions, and although David re-enabled it for me last week, I haven’t been added to any Slack channels or worked on any INT-related tasks during this time. I’m concerned about my ability to effectively handle on-call responsibilities without the necessary access or context.
 
-I hope you’re doing well. I wanted to follow up on my recent application for the Cloud Engineer - T1 role (Role ID: 5568360). I’m very excited about this opportunity and wanted to share my one-pager for your reference, as it highlights my relevant experience and accomplishments.
+Additionally, since I’m transitioning out of the team at the end of the month, would it be possible to reassign these responsibilities to someone with the required access and familiarity?
 
-I’ve worked extensively with AWS services, Terraform, Docker, and Kubernetes, and I’ve also led efforts to optimize CI/CD pipelines and troubleshoot complex cloud infrastructure issues. My recent projects have focused on designing scalable cloud environments, implementing infrastructure as code, and collaborating with cross-functional teams to deliver reliable solutions.
-
-This role aligns perfectly with my skills and career goals, and I’d love the chance to discuss how I can contribute to the FAR-Angelite project. Please let me know if there’s any additional information I can provide.
-
-Thank you for your time and consideration, and I look forward to hearing from you.
+Let me know your thoughts!
 
 Best regards,
-Gisele Soubiega
-[Your Email Address] | [Your Phone Number]
+Gisele
 
-This version:
-	•	Keeps it human and conversational without sounding overly polished.
-	•	Acknowledges that you’ve applied while reinforcing your enthusiasm.
-	•	Highlights your key skills in a concise, natural way.
-
-Let me know if you want further tweaks or adjustments!
+This keeps your message polite and professional, while ensuring your concerns are clearly communicated.

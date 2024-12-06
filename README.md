@@ -34,3 +34,5 @@ Involved in migrating and managing multiple application from on premises to AWS 
 Configured NACL, Security Groups, and WAF to secure applications and VPC network depending on access parameters provided and conditions.
 • Configured and managed Elastic Load Balancing (ELB), to avoid single point of failure applications, thus providing high availability and network load balancing
 Implemented comprehensive monitoring and alerting using AWS CloudWatch and ELK stack for centralized
+
+Experienced Cloud DevOps Engineer with over 5 years of expertise in designing, implementing, and managing cloud-based infrastructure and DevOps practices. Proficient in a wide range of cloud technologies and tools, including AWS Cloud Platform, with a strong focus on automation, scalability, and reliability. Demonstrated success in optimizing CI/CD pipelines, leveraging infrastructure-as-code, and implementing robust monitoring and alerting systems. Proven ability to collaborate with cross-functional teams, drive continuous improvement, and deliver results in fast-paced and dynamic environments.

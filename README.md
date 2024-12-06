@@ -36,3 +36,35 @@ Configured NACL, Security Groups, and WAF to secure applications and VPC network
 Implemented comprehensive monitoring and alerting using AWS CloudWatch and ELK stack for centralized
 
 Experienced Cloud DevOps Engineer with over 5 years of expertise in designing, implementing, and managing cloud-based infrastructure and DevOps practices. Proficient in a wide range of cloud technologies and tools, including AWS Cloud Platform, with a strong focus on automation, scalability, and reliability. Demonstrated success in optimizing CI/CD pipelines, leveraging infrastructure-as-code, and implementing robust monitoring and alerting systems. Proven ability to collaborate with cross-functional teams, drive continuous improvement, and deliver results in fast-paced and dynamic environments.
+
+Here’s an updated email that thanks her for the call and the tips she provided:
+
+Subject: Follow-Up: Thank You for the Call and Guidance
+
+Dear [Recipient’s Name],
+
+I hope this email finds you well. I wanted to take a moment to thank you for our recent call and all the helpful tips you shared regarding my job search. Your guidance on navigating Staffer, applying through My Scheduling, and reaching out to hiring managers directly was incredibly valuable. I truly appreciate the time you took to provide such detailed advice.
+
+As we discussed, here are the areas I am most interested in working on:
+
+Areas of Interest:
+
+	1.	DevOps: Streamlining and automating CI/CD pipelines, infrastructure as code, and containerization.
+	2.	Cloud Engineering: Focusing on AWS-based projects, deployments, and architecture optimization.
+	3.	DevSecOps: Integrating security into DevOps practices and ensuring compliance throughout the development lifecycle.
+	4.	System Administration: Advanced troubleshooting and managing Linux environments efficiently.
+	5.	Continuous Learning: Opportunities for training and development to further enhance my skills.
+
+Additionally, I’ve attached my one-pager and full resume for reference. Please let me know if there’s anything else you need from me as I continue working on my applications.
+
+Thank you again for your support and for sharing such actionable advice—I truly appreciate it!
+
+Best regards,
+Gisele
+
+Attachments:
+
+	•	One-Pager Resume
+	•	Full Resume
+
+This version emphasizes your gratitude while keeping the email clear and actionable. Let me know if you need to fine-tune it further!

@@ -1,23 +1,18 @@
-Here’s a professional and natural message you can send to Ahmad Ramadani, the job poster for the AWS Cloud Engineer (Terraform, Containers) role:
+Here’s a concise and professional message you can send to Mitchell Blei:
 
-Subject: Interest in AWS Cloud Engineer Role (Role ID: 5568573)
+Subject: Inquiry About DevOps Opportunities
 
-Hi Ahmad,
+Hi Mitchell,
 
-I hope you’re doing well. I came across the AWS Cloud Engineer role (Role ID: 5568573) and wanted to reach out directly to express my interest. This role aligns closely with my experience in AWS cloud infrastructure, Terraform, containerization with Docker, and CI/CD pipeline development.
+I hope you’re doing well. I came across the DevOps Engineer role (SE3) you’re hiring for, and while I understand it’s at a Career Level 7, I wanted to express my interest and share my profile for any opportunities within your network or team that might align with my current level (L9).
 
-I’ve worked extensively on automating infrastructure, setting up secure deployments, and optimizing cloud resources to meet performance and scalability requirements. I’m excited about the opportunity to contribute to the FAR-Big Stone project and would love to learn more about the team and its goals.
+I have experience in AWS, CI/CD pipeline automation, infrastructure as code, and containerization, and I’ve contributed to projects delivering value through automation and scalable solutions. I’d be grateful if you could keep me in mind for any roles where I could contribute effectively.
 
-I’ve attached my one-pager for your review. Please let me know if there’s a convenient time to connect—I’d appreciate the chance to discuss this opportunity further.
+If there’s someone you recommend I connect with, I’d appreciate any guidance you can provide. I’ve attached my one-pager for quick reference.
 
 Thank you for your time, and I look forward to hearing from you.
 
 Best regards,
-Gisele Soubiega
-[Your Email Address] | [Your Phone Number]
+Giselle Soubeiga
 
-Tips:
-	•	Attach your one-pager highlighting Terraform, Docker, AWS ELB, CI/CD, and WAF experience.
-	•	Keep the file name clear, e.g., Gisele_Soubiega_AWSCloudEngineer.pdf.
-
-This message is concise, reflects your skills accurately, and shows genuine enthusiasm for the role. Let me know if you’d like adjustments!
+This message is respectful, clear, and positions you as proactive while acknowledging the role level. It also opens the door to referrals or future opportunities.

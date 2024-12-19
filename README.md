@@ -1,18 +1,16 @@
-Here’s a professional and clear follow-up email you can send to Ashley:
+Based on Chelsea’s response, here’s how you can acknowledge her efforts and take the next steps:
 
-Subject: Follow-Up: Request for Support in Finding a New Role
+Subject: Thank You and Next Steps
 
-Dear Ashley,
+Hi Chelsea,
 
-I hope you’re doing well. I wanted to follow up on our recent conversation regarding the TMP process and share an update on my progress.
+Thank you for forwarding my one-pager to Ariel Brest and for your guidance throughout this process. I truly appreciate your support.
 
-I’ve been actively applying to roles that align with my skills on Staffer and My Scheduling and have also been reaching out to managers and senior managers to explore opportunities. However, I haven’t had any success so far, and no roles have come up yet.
+I will reach out to Ariel as you suggested and continue exploring opportunities. If there’s anything else I should be doing in the meantime or any other contacts you think I should connect with, please let me know.
 
-I would greatly appreciate any additional support or guidance you can provide to help me identify and secure a new role. If you’re aware of any openings or can connect me with teams looking for someone with my background in DevOps, Cloud Engineering, and CI/CD pipelines, I would be extremely grateful.
-
-Thank you again for your time and support—I truly appreciate it. Please let me know if there’s any further information or action needed from my end.
+Thank you again for your help—I’m grateful for your assistance as I work to secure a new role.
 
 Best regards,
 Gisele
 
-This email is polite, professional, and conveys that you’ve been proactive but could use her help. It leaves the door open for her to step in and support your search. Let me know if you’d like to refine it further!
+This response shows gratitude, acknowledges her action, and keeps the momentum moving by confirming your plan to follow up with Ariel. Let me know if you’d like to refine this further!

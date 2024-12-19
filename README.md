@@ -1,12 +1,12 @@
-Here’s a revised follow-up message without mentioning that you haven’t implemented her advice:
+Here’s the corrected version of your message:
 
-Hi Ariel,
+Hello Abdulai,
 
-I wanted to follow up and share some exciting news—I’ve secured a new role with USPS! Thank you so much for your guidance and support earlier today. Your advice and encouragement have been incredibly helpful during this process, and I’m truly grateful.
+I hope you’re having a great day. I wanted to thank you for taking the time to speak with me about your team and the project you’re working on. I also wanted to inform you that I have accepted a new project. It was a tough decision, as I was very interested in the opportunity with your team, but I wanted to be upfront and keep you informed.
 
-I look forward to staying connected and hope to cross paths again in the future. Please let me know if there’s ever anything I can do to return the favor.
+Thank you again for your time and consideration.
 
 Best regards,
 Gisele
 
-This keeps the tone positive and professional while focusing on the gratitude and maintaining the connection.
+This version maintains a professional and polite tone while fixing grammar and formatting. Let me know if you’d like any other adjustments!

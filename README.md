@@ -1,16 +1,18 @@
-Based on Chelsea’s response, here’s how you can acknowledge her efforts and take the next steps:
+Here’s a professional and concise email template you can use to reach out to Ariel:
 
-Subject: Thank You and Next Steps
+Subject: Introduction and Request for Support
 
-Hi Chelsea,
+Dear Ariel,
 
-Thank you for forwarding my one-pager to Ariel Brest and for your guidance throughout this process. I truly appreciate your support.
+I hope this email finds you well. My name is Gisele Soubeiga, and Chelsea Clay recently shared my one-pager with you as I am currently seeking a new role within AFS.
 
-I will reach out to Ariel as you suggested and continue exploring opportunities. If there’s anything else I should be doing in the meantime or any other contacts you think I should connect with, please let me know.
+I have experience in DevOps, Cloud Engineering, and CI/CD pipelines, and I’m actively applying for roles that align with my skill set. Chelsea mentioned that you have visibility into current and upcoming opportunities, and I would greatly appreciate any guidance or support you could provide to help me identify roles that might be a good fit.
 
-Thank you again for your help—I’m grateful for your assistance as I work to secure a new role.
+If you’re available, I’d be happy to discuss my background and skills further at your convenience. Please let me know if there’s a good time to connect or if there are specific opportunities I should explore.
+
+Thank you for your time and support—I greatly appreciate it and look forward to hearing from you.
 
 Best regards,
-Gisele
+Gisele Soubeiga
 
-This response shows gratitude, acknowledges her action, and keeps the momentum moving by confirming your plan to follow up with Ariel. Let me know if you’d like to refine this further!
+This email is professional, clear, and shows initiative while respecting Ariel’s time. Let me know if you need any adjustments!

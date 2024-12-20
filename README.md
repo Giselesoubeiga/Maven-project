@@ -1,12 +1,11 @@
-Here’s a shorter, to-the-point version:
+Here’s a clearer and more professional rewrite of the message:
 
-Hi [Name],
+Hi Nadeem,
 
-Thank you so much for considering me for [role/project name]. I wanted to let you know that I’ve recently accepted a new project and won’t be able to proceed with the interview process.
+I understand. Would you mind reaching out to Narasimha Thammineni to explain the issue with the 7.1.0 baseline? He is the lead for all AIO-related matters and might be able to assist further.
 
-I truly appreciate your time and hope we can connect again in the future.
+Just as an FYI, I’m transitioning to another team and currently have less focus on AIO-related work.
 
-Best regards,
-Gisele
+Thank you!
 
-This version is direct, polite, and professional. Let me know if you’d like any adjustments!
+Let me know if you’d like further tweaks.

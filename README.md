@@ -1,11 +1,1 @@
-Here’s a clearer and more professional rewrite of the message:
-
-Hi Nadeem,
-
-I understand. Would you mind reaching out to Narasimha Thammineni to explain the issue with the 7.1.0 baseline? He is the lead for all AIO-related matters and might be able to assist further.
-
-Just as an FYI, I’m transitioning to another team and currently have less focus on AIO-related work.
-
-Thank you!
-
-Let me know if you’d like further tweaks.
+I left my job to pursue a certificate in full stack development. After obtaining the certificate, the pandemic hit and it was getting difficult to land a job. At the meantime I got pregnant and stay home during pregnancy and after giving birth because my husband who is in pharmacy school and I do not have any support to afford daycare..

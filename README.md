@@ -1,1 +1,3 @@
-I left my job to pursue a certificate in full stack development. After obtaining the certificate, the pandemic hit and it was getting difficult to land a job. At the meantime I got pregnant and stay home during pregnancy and after giving birth because my husband who is in pharmacy school and I do not have any support to afford daycare..
+Here’s a corrected version of your sentence:
+
+“I’m completing this document for the USPS project and have one question, if you don’t mind: am I supposed to fill out this part?”

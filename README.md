@@ -1,16 +1,5 @@
-Here’s a polished version of your message:
+Your message is clear and polite, but it could be slightly refined for better flow. Here’s a revised version:
 
-Subject: Roll-On Questions
+“Thank you, Lance! I was planning to reach out to Michael first, but I noticed he’s currently away. I’ll wait for his response.”
 
-Hi Kim,
-
-I’m officially rolling onto the project today and was wondering if you could help me with two questions:
-	1.	Do you know who my direct supervisor is?
-	2.	Do you have any information about how to obtain my charge code?
-
-Thank you so much for your assistance!
-
-Best regards,
-Gisele
-
-This version is professional, clear, and concise.
+This version improves sentence structure and keeps the tone professional.

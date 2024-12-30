@@ -1,16 +1,16 @@
-Here’s a revised version of your message, written more clearly and professionally:
+Here’s a polished version of your message:
 
-Subject: Timesheet Submission - Missing Charge Code
+Subject: Roll-On Questions
 
-Good Morning Patrick,
+Hi Kim,
 
-I hope you had a wonderful Christmas!
+I’m officially rolling onto the project today and was wondering if you could help me with two questions:
+	1.	Do you know who my direct supervisor is?
+	2.	Do you have any information about how to obtain my charge code?
 
-Today is my roll-on to my new project, and I was notified to submit my timesheet. However, I have not yet received a charge code. Could you please advise me on what steps I should take to proceed?
-
-Thank you for your help!
+Thank you so much for your assistance!
 
 Best regards,
 Gisele
 
-This version is polished, professional, and polite, while keeping the message clear.
+This version is professional, clear, and concise.

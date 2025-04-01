@@ -1,9 +1,10 @@
 
-I hope you’re doing well. I wanted to reach out to inform you that I’m expecting to go on maternity leave around May and would like to understand the process for requesting leave.
+Hi AFS Absence Management Team,
 
-I haven’t formally reached out to my project lead yet, as I wanted to check with you first on the necessary steps and any paperwork or approvals I should be aware of. Please let me know the best way to proceed when you have a moment.
+I hope you’re doing well. I’m reaching out to formally request maternity leave, with an expected start date around [insert your expected start date, e.g., May 15, 2025].
 
-I appreciate your guidance and look forward to your response!
+I’d appreciate it if you could let me know the next steps and if there’s any paperwork or documentation I need to complete. I came across the Maternity Leave Application form and plan to submit it as instructed, but please let me know if anything else is required.
+
+Thanks in advance for your help!
 
 Best,
-Gisele

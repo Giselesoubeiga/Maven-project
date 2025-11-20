@@ -1,3 +1,3 @@
-I updated both templates — the parent evaluation-dev.json and the evaluation-dev-securitygroups.json.
-The security group file now includes the missing exports for sgSolverWorkerInSG and sgSolverRdpInSG, and the parent template references them correctly.
-Let’s test it out and see if that resolves the issue.
+Yes — for the queues I’m using Fn::ImportValue. When I was doing my research, I saw that those come directly from the SQS child stack, and the workers need those queue ARNs to register correctly.
+
+The security groups are different because those are passed down from the Evaluation stack as parameters, so in the worker template I just reference them with Ref.

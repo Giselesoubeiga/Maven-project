@@ -1,3 +1,1 @@
-Yes — for the queues I’m using Fn::ImportValue. When I was doing my research, I saw that those come directly from the SQS child stack, and the workers need those queue ARNs to register correctly.
-
-The security groups are different because those are passed down from the Evaluation stack as parameters, so in the worker template I just reference them with Ref.
+Hey Salman, I went through the updated templates you shared — all the workers, launch templates, ASGs, and tags look correct on my end. Everything seems to have deployed with the right parameters and structure. Let me know if there’s anything specific you’d like me to validate further.”
